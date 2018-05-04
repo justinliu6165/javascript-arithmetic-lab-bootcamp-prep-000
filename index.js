@@ -5,7 +5,7 @@ function subtract(a,b){
   return a-b
 }
 function multipy(a,b){
-  return a*b
+  return b*a
 }
 function divide(a,b){
   return a/b
